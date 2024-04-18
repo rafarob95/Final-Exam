@@ -12,7 +12,7 @@ This interactive dashboard is designed to provide a comprehensive analysis of th
 - **Geospatial Data Visualization**: Interactive maps display rental and sales data, enabling comparisons across various states.
 - **Customizable Data Views**: The dashboard updates dynamically based on user selections, offering tailored insights into the real estate market.
 
-## Technologies Used
+![Dashboard](Pictures/dashboard.jpeg)## Technologies Used
 
 - **Streamlit**: For building the interactive web app.
 - **Pandas**: For data manipulation and cleaning.
